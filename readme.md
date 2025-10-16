@@ -1,4 +1,4 @@
-﻿# Tripsprint
+# Tripsprint
 
 Tripsprint is a 2D endless runner built in C# using Windows Forms.
 
